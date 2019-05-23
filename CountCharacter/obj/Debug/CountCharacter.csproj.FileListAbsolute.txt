@@ -1,0 +1,7 @@
+C:\Users\E9900\source\repos\APPCountCharacter\CountCharacter\bin\Debug\CountCharacter.exe.config
+C:\Users\E9900\source\repos\APPCountCharacter\CountCharacter\bin\Debug\CountCharacter.exe
+C:\Users\E9900\source\repos\APPCountCharacter\CountCharacter\bin\Debug\CountCharacter.pdb
+C:\Users\E9900\source\repos\APPCountCharacter\CountCharacter\obj\Debug\CountCharacter.csprojAssemblyReference.cache
+C:\Users\E9900\source\repos\APPCountCharacter\CountCharacter\obj\Debug\CountCharacter.csproj.CoreCompileInputs.cache
+C:\Users\E9900\source\repos\APPCountCharacter\CountCharacter\obj\Debug\CountCharacter.exe
+C:\Users\E9900\source\repos\APPCountCharacter\CountCharacter\obj\Debug\CountCharacter.pdb
